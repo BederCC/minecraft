@@ -1,6 +1,6 @@
 # UNIVERSIDAD TECNOLÓGICA DE LOS ANDES
 
-![Logo Universidad]([[https://www.example.com/logo.jpg](https://utea.edu.pe/wp-content/uploads/2022/01/logo-utea-2022-2.png](https://utea.edu.pe/wp-content/uploads/2022/01/logo-utea-2022-2.png)))
+![Logo Universidad](https://utea.edu.pe/wp-content/uploads/2022/01/logo-utea-2022-2.png)
 ## CARRERA PROFESIONAL DE INGENIERÍA DE SISTEMAS E INFORMATICA
 
 ---
