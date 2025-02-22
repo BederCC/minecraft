@@ -1,3 +1,4 @@
+<div align="center">
 # UNIVERSIDAD TECNOLÓGICA DE LOS ANDES
 
 ![Logo Universidad](https://utea.edu.pe/wp-content/uploads/2022/01/logo-utea-2022-2.png)
@@ -30,3 +31,4 @@
 
 
 ![minecraft](/screenshot/0.jpg)
+</div>
