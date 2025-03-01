@@ -15,7 +15,7 @@
 ---
 
 ### **INTEGRANTES:**
-- **Beder Danilo Casa Condori**
+- **Beder Danilo Casa Condori.**
 - **Alicia Levita Silva**
 - **David Camala Ccorpuna**
 - **James Joao Hurtado Alfaro**
